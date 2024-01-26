@@ -2,7 +2,7 @@
   import App from '$lib/components/App.svelte'
 </script>
 
-<div>
+<div id="root">
   <App />
 </div>
 
